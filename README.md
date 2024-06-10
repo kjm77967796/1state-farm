@@ -1,4 +1,3 @@
-# 1state-farm
 # State Farm Machine Learning API Deployment
 
 ## Overview
@@ -108,7 +107,12 @@ The CI/CD pipeline is configured in the DockerToDockerHub.yml file, automating t
 DockerHub Deployment
 Find the Docker image for the project at:
 
-https://hub.docker.com/repository/docker/kelvinjmarcak/state-farm-predict/tags
+https://hub.docker.com/r/oms96/state-farm-predict/tags
+
+Repository
+Access the full codebase and resources:
+
+State Farm GitHub Repository : https://github.com/OMS1996/state-farm
 
 ## Detailed Setup Instructions
 
@@ -243,3 +247,10 @@ Running the Script
 Save this script as a .py file.
 Run it using Python in your terminal or command prompt.
 The script will send the request to your FastAPI application and print the predictions received in response.
+
+
+## Contact
+
+For any inquiries or contributions, please contact Omar M. Hussein at omarmoh.said@gmail.com or @OMS1996.
+
+
